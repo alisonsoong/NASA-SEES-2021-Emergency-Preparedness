@@ -22,7 +22,7 @@ For extreme heat, San Francisco was chosen as the area of study. We created land
 [2021 SEES Emergency Preparedness Final Presentation](https://www.youtube.com/watch?v=yiGSz_DawFA)
 
 ### Poster
-![alt text](https://github.com/alisonsoong/NASA-SEES-2021-Emergency-Preparedness/blob/main/SEES2021_EmergencyPreparedness_Poster.pdf?raw=true)
+[link](https://drive.google.com/file/d/1Vp603Vok_HpUywQyFck26BCkq-ODLPe1/view?usp=sharing)
 
 # Overview
 
